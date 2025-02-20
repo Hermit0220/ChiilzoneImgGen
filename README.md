@@ -1,4 +1,4 @@
-**Introducing flo0pGPT**
+**Introducing HERMIT**
 ==========================
 
 Your AI-powered Discord bot for image manipulation, text generation, and more!
