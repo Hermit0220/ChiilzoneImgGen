@@ -1,4 +1,4 @@
-**Introducing HERMIT**
+**Introducing Medusa**
 ==========================
 
 Your AI-powered Discord bot for image manipulation, text generation, and more!
